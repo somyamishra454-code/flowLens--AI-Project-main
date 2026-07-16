@@ -255,7 +255,7 @@ https://github.com/somyamishra454-code
 
 deply link :
 
-https://6a52cf78b90628983abfbc20--extraordinary-biscuit-e3823a.netlify.app
+https://6a5868d4762e6eb557058cc8--extraordinary-biscuit-e3823a.netlify.app
 ---
 
 ## 🌐 Vision
